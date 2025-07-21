@@ -1,2 +1,2 @@
 # test-empty-repo
-test value
+test value 2
